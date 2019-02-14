@@ -6,7 +6,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['0.0.0.0']
 
 INSTALLED_APPS += (
-    'api.app',
+    'debug_toolbar',
 )
 
 # Database
